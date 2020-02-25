@@ -1,0 +1,6 @@
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardKlaseIObjekti\KusanovicLenardKlaseIObjekti\bin\Debug\KusanovicLenardKlaseIObjekti.exe.config
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardKlaseIObjekti\KusanovicLenardKlaseIObjekti\bin\Debug\KusanovicLenardKlaseIObjekti.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardKlaseIObjekti\KusanovicLenardKlaseIObjekti\bin\Debug\KusanovicLenardKlaseIObjekti.pdb
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardKlaseIObjekti\KusanovicLenardKlaseIObjekti\obj\Debug\KusanovicLenardKlaseIObjekti.csprojAssemblyReference.cache
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardKlaseIObjekti\KusanovicLenardKlaseIObjekti\obj\Debug\KusanovicLenardKlaseIObjekti.exe
+C:\Users\Adminj\Desktop\Lenard Kusanovic\KusanovicLenardKlaseIObjekti\KusanovicLenardKlaseIObjekti\obj\Debug\KusanovicLenardKlaseIObjekti.pdb
